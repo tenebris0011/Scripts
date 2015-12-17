@@ -3,7 +3,7 @@ $Users = @()
 $Users += Get-ADGroup -Filter {Name -like "FSAE_*" -Or Name -like "FSSO_*"}| Get-ADGroupMember | Where-Object {$_.objectClass -eq "user"}
 $Users2 = @()
 $Users2 += Get-ADUser -Filter *
-Compare-Object -ReferenceObject $Users -DifferenceObject $Users2 -PassThru | Where-Object {$_.Enabled -eq "True"} | FT Name, SamAccountName -Autosize | Out-File C:\BankOnIT\FSSO_Guest_Report.txt
+Compare-Object -ReferenceObject $Users -DifferenceObject $Users2 -PassThru | Where-Object {$_.Enabled -eq "True"} | FT Name, SamAccountName -Autosize | Out-File C:\Groups.txt
 
 <--You can change the FSAE_ and FSSO_ to what group you need. This makes it easier to find users that aren't
-This must be run on Server 2008 R2 or higher.-->
+This must be run on Server 2008 R2 or higher. This also outputs the details to a txt file in the C drive root directory.-->
