@@ -1,0 +1,18 @@
+$computers = gc "C:\computers.txt"
+
+foreach ($computer in $computers) {
+    if (test-Connection -Cn $computer -quiet) {
+        & C:\pstools\psexec.exe -u domain\user -p password \\$computer "C:\BankOnIT\program.exe"
+    } else {
+        "$computer is not offline"
+    }
+}
+
+<--Computers.txt layout-->
+
+machine1
+machine2
+machine3
+
+<--This script requires PSEXEC-->
+<--This also requires an msi file to install silently-->
