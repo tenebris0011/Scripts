@@ -1,0 +1,7 @@
+@echo off
+setlocal
+set PATHTOFIXES=C:\Location\of\fixes
+
+%PATHTOFIXES%\fixname.exe
+%PATHTOFIXES%\fixname.exe
+%PATHTOFIXES%\fixname.exe
