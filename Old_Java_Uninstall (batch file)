@@ -1,0 +1,772 @@
+REM Uninstall Java(TM) 8 Update 65
+msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83218065F0} /qn /norestart
+
+REM Uninstall Java(TM) 8 Update 60
+msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86418060F0} /qn /norestart
+
+REM Uninstall Java(TM) 8 Update 51
+msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83218051F0} /qn /norestart
+
+REM Uninstall Java(TM) 8 Update 45
+msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83218045F0} /qn /norestart
+
+REM Uninstall Java(TM) 8 Update 40
+msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83218040F0} /qn /norestart
+
+REM Uninstall Java(TM) 8 Update 31
+msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83218031F0} /qn /norestart
+
+REM Uninstall Java(TM) 8 Update 25
+msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83218025F0} /qn /norestart
+
+REM Uninstall Java(TM) 8 Update 20
+msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86418020F0} /qn /norestart
+
+REM Uninstall Java(TM) 8 Update 11
+msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83218011FF} /qn /norestart
+
+REM Uninstall Java(TM) 8 Update 5
+msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83218005FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 80
+msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F03217080FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 79
+msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F03217079FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 76
+msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F03217076FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 75
+msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F03217075FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 72
+msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F03217072FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 71
+msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F03217071FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 67
+msiexec /x {26A24AE4-039D-4CA4-87B4-2F03217067FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 60
+msiexec /x {26A24AE4-039D-4CA4-87B4-2F03217060FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 55
+msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83217055FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 51
+msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83217051FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 45
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83217045FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 45 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86417045FF} /qn /noresta
+
+REM Uninstall Java(TM) 7 Update 40
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83217040FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 40 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86417040FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 25 – 64 bit
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F86417025FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 25
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F83217025FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 21 – 64 bit
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F86417021FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 21
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F83217021FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 17 – 64 bit
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F86417017FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 17
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F83217017FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 16 – 64 bit
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F86417016FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 16
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F83217016FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 15 – 64 bit
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F86417015FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 15
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F83217015FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 14 – 64 bit
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F86417014FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 14
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F83217014FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 13 – 64 bit
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F86417013FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 13
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F83217013FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 12 – 64 bit
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F86417012FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 12
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F83217012FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 11 – 64 bit
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F86417011FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 11
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F83217011FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 10 – 64 bit
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F86417010FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 10
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F83217010FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 9 – 64 bit
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F86417009FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 9
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F83217009FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 8 – 64 bit
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F86417008FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 8
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F83217008FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 7 – 64 bit
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F86417007FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 7
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F83217007FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 6
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83217006FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 6  - 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86417006FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 5
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F83217005FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 5  - 64 bit
+ msiexec.exe /X {26A24AE4-039D-4CA4-87B4-2F86417005FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 4 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86417004FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 4
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83217004FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 3 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86417003FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 3
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83217003FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 2 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86417002FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 2
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83217002FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 1 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86417001FF} /qn /norestart
+
+REM Uninstall Java(TM) 7 Update 1
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83217001FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 43
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216043FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 43 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416043FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 42
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216042FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 42 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416042FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 41
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216041FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 41 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416041FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 40
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216040FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 40 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416040FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 39
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216039FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 39 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416039FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 38
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216038FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 38 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416038FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 37
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216037FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 37 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416037FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 36
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216036FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 36 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416036FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 35
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216035FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 35 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416035FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 34
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216034FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 34 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416034FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 33
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216033FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 33 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416033FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 32
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216032FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 32 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416032FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 31 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416031FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 31
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216031FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 30 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416030FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 30
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216030FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 29 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416029FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 29
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216029FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 28 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416028FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 28
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216028FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 27 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416027FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 27
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216027FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 26 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416026FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 26
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216026FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 25 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416025FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 25
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216025FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 24 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416024FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 24
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216024FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 23 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416023FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 23
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216023FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 22
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216022FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160220} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 21
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216021FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160210} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 20
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216020FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160200} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 19
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216019FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160190} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 18
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216018FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160180} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 17
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216017FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160170} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 16
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216016FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160160} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 15
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216015FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160150} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 14
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216014FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160140} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 13
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216013FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160130} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 12
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216012FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160120} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 11
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216011FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160110} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 10
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216010FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160100} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 09
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216009FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160090} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 08
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216008FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160080} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 07
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216007FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160070} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 06
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216006FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160060} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 05
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216005FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160050} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 04
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216004FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160040} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 03
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216003FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160030} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 02
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216002FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160020} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 01
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216001FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160010} /qn /norestart
+
+REM Uninstall Java(TM) 6
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216000FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160000} /qn /norestart
+
+REM Uninstall Java(TM) 5.0
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150000} /qn /norestart
+
+REM Uninstall Java(TM) 5.0 Update 1
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150010} /qn /norestart
+
+REM Uninstall Java(TM) 5.0 Update 2
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150020} /qn /norestart
+
+REM Uninstall Java(TM) 5.0 Update 3
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150030} /qn /norestart
+
+REM Uninstall Java(TM) 5.0 Update 4
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150040} /qn /norestart
+
+REM Uninstall Java(TM) 5.0 Update 5
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150050} /qn /norestart
+
+REM Uninstall Java(TM) 5.0 Update 6
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150060} /qn /norestart
+
+REM Uninstall Java(TM) 5.0 Update 7
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150070} /qn /norestart
+
+REM Uninstall Java(TM) 5.0 Update 8
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150080} /qn /norestart
+
+REM Uninstall 5.0 Java(TM) Update 9
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150090} /qn /norestart
+
+REM Uninstall Java(TM) 5.0 Update 10
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150100} /qn /norestart
+
+REM Uninstall Java(TM) 5.0 Update 11
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150110} /qn /norestart
+
+REM Uninstall Java(TM) 5.0 Update 12
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150120} /qn /norestart
+
+REM Uninstall Java(TM) 5.0 Update 13
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150130} /qn /norestart
+
+REM Uninstall Java(TM) 5.0 Update 14
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150140} /qn /norestart
+
+REM Uninstall Java(TM) 5.0 Update 15
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150150} /qn /norestart
+
+REM Uninstall Java(TM) 5.0 Update 16
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150160} /qn /norestart
+
+REM Uninstall Java(TM) 5.0 Update 17
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150170} /qn /norestart
+
+REM Uninstall Java(TM) 5.0 Update 18
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150180} /qn /norestart
+
+REM Uninstall Java(TM) 5.0 Update 19
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150190} /qn /norestart
+
+REM Uninstall Java(TM) 5.0 Update 20
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150200} /qn /norestart
+
+REM Uninstall Java(TM) 5.0 Update 21
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150210} /qn /norestart
+
+REM Uninstall Java(TM) 5.0 Update 22
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150220} /qn /norestart
+
+REM Uninstall Java(TM) 5.0 Update 23
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0150230} /qn /norestart
+
+REM Uninstall Java(TM) 1.4.2
+ msiexec.exe /x {7148F0A8-6813-11D6-A77B-00B0D0142000} /qn /norestart
+
+REM Uninstall Java(TM) 1.4.2_01
+ msiexec.exe /x {7148F0A8-6813-11D6-A77B-00B0D0142010} /qn /norestart
+
+REM Uninstall Java(TM) 1.4.2_02
+ msiexec.exe /x {7148F0A8-6813-11D6-A77B-00B0D0142020} /qn /norestart
+
+REM Uninstall Java(TM) 1.4.2_03
+ msiexec.exe /x {7148F0A8-6813-11D6-A77B-00B0D0142030} /qn /norestart
+
+REM Uninstall Java(TM) 1.4.2_04
+ msiexec.exe /x {7148F0A8-6813-11D6-A77B-00B0D0142040} /qn /norestart
+
+REM Uninstall Java(TM) 1.4.2_05
+ msiexec.exe /x {7148F0A8-6813-11D6-A77B-00B0D0142050} /qn /norestart
+
+REM Uninstall Java(TM) 1.4.2_106
+ msiexec.exe /x {7148F0A8-6813-11D6-A77B-00B0D0142060} /qn /norestart
+
+REM Uninstall Java(TM) 1.4.2_07
+ msiexec.exe /x {7148F0A8-6813-11D6-A77B-00B0D0142070} /qn /norestart
+
+REM Uninstall Java(TM) 1.4.2_08
+ msiexec.exe /x {7148F0A8-6813-11D6-A77B-00B0D0142080} /qn /norestart
+
+REM Uninstall Java(TM) 1.4.2_09
+ msiexec.exe /x {7148F0A8-6813-11D6-A77B-00B0D0142090} /qn /norestart
+
+REM Uninstall Java(TM) 1.4.2_10
+ msiexec.exe /x {7148F0A8-6813-11D6-A77B-00B0D0142100} /qn /norestart
+
+REM Uninstall Java(TM) 1.4.2_11
+ msiexec.exe /x {7148F0A8-6813-11D6-A77B-00B0D0142110} /qn /norestart
+
+REM Uninstall Java(TM) 1.4.2_12
+ msiexec.exe /x {7148F0A8-6813-11D6-A77B-00B0D0142120} /qn /norestart
+
+REM Uninstall Java(TM) 1.4.2_13
+ msiexec.exe /x {7148F0A8-6813-11D6-A77B-00B0D0142130} /qn /norestart
+
+REM Uninstall Java(TM) 1.4.2_14
+ msiexec.exe /x {7148F0A8-6813-11D6-A77B-00B0D0142140} /qn /norestart
+
+REM Uninstall Java(TM) 1.4.2_15
+ msiexec.exe /x {7148F0A8-6813-11D6-A77B-00B0D0142150} /qn /norestart
+
+REM Uninstall Java(TM) 1.4.2_16
+ msiexec.exe /x {7148F0A8-6813-11D6-A77B-00B0D0142160} /qn /norestart
+
+REM Uninstall Java(TM) 1.4.2_17
+ msiexec.exe /x {7148F0A8-6813-11D6-A77B-00B0D0142170} /qn /norestart
+
+REM Uninstall Java(TM) 1.4.2_18
+ msiexec.exe /x {7148F0A8-6813-11D6-A77B-00B0D0142180} /qn /norestart
+
+REM Uninstall Java(TM) 1.4.2_19
+ msiexec.exe /x {7148F0A8-6813-11D6-A77B-00B0D0142190} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 29
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216029FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 29 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416029FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 32 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416032FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 32
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216032FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 7 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416007FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 7
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216007FF} /qn /norestart
+
+
+REM Uninstall Java(TM) 6 Update 43
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216043FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 43 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416043FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 42
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216042FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 42 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416042FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 41
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216041FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 41 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416041FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 40
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216040FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 40 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416040FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 39
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216039FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 39 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416039FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 38
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216038FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 38 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416038FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 37
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216037FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 37 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416037FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 36
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216036FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 36 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416036FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 35
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216035FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 35 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416035FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 34
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216034FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 34 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416034FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 33
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216033FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 33 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416033FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 32
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216032FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 32 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416032FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 31 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416031FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 31
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216031FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 30 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416030FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 30
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216030FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 29 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416029FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 29
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216029FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 28 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416028FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 28
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216028FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 27 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416027FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 27
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216027FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 26 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416026FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 26
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216026FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 25 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416025FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 25
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216025FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 24 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416024FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 24
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216024FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 23 – 64 bit
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F86416023FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 23
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216023FF} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 22
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216022FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160220} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 21
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216021FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160210} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 20
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216020FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160200} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 19
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216019FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160190} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 18
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216018FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160180} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 17
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216017FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160170} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 16
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216016FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160160} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 15
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216015FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160150} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 14
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216014FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160140} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 13
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216013FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160130} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 12
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216012FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160120} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 11
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216011FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160110} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 10
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216010FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160100} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 09
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216009FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160090} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 08
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216008FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160080} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 07
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216007FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160070} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 06
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216006FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160060} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 05
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216005FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160050} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 04
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216004FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160040} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 03
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216003FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160030} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 02
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216002FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160020} /qn /norestart
+
+REM Uninstall Java(TM) 6 Update 01
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216001FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160010} /qn /norestart
+
+REM Uninstall Java(TM) 6
+ msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83216000FF} /qn /norestart
+ msiexec.exe /x {3248F0A8-6813-11D6-A77B-00B0D0160000} /qn /norestart
