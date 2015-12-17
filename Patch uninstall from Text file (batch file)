@@ -1,0 +1,12 @@
+set /p var=Location of Text File: 
+FOR /F  "delims= tokens=1" %%a IN (%var%) DO wusa /uninstall /norestart /kb:%%a
+
+pause
+
+<--Text file must only contain the numbers of KB files and must look like below-->
+
+######
+######
+######
+
+<--The script will ask where this text file resides-->
