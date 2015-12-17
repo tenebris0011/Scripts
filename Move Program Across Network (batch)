@@ -1,0 +1,10 @@
+set /p var=Location of Text File: 
+FOR /F  "delims= tokens=1" %%a IN (%var%) DO xcopy "C:\original\file\location\program.exe" "\\%%a\C$\location\you\want\this\program.exe"
+
+xcopy "%var%" "%var1%"
+
+<--Computers.txt setup-->
+
+machine1
+machine2
+machine3
