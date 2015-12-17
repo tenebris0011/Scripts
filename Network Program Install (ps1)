@@ -2,7 +2,7 @@ $computers = gc "C:\computers.txt"
 
 foreach ($computer in $computers) {
     if (test-Connection -Cn $computer -quiet) {
-        & C:\pstools\psexec.exe -u domain\user -p password \\$computer "C:\BankOnIT\program.exe"
+        & C:\pstools\psexec.exe -u domain\user -p password \\$computer "C:\path\to\program"
     } else {
         "$computer is not offline"
     }
