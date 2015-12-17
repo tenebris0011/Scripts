@@ -1,0 +1,9 @@
+set /p var=Location of Tex File:
+
+FOR /F  "delims= tokens=1" %%a IN (%var%) DO del "\\%%a\C$\file\location"
+
+<--Computers.txt layout-->
+
+machine1
+machine2
+machine3
