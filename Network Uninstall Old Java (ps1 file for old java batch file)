@@ -1,0 +1,9 @@
+$computers = gc "C:\computers.txt"
+
+foreach ($computer in $computers) {
+    if (test-Connection -Cn $computer -quiet) {
+	    & C:\pstools\psexec.exe -u domain\users -p password \\$computer "C:\Old_Java_Uninstall.bat"
+    } else {
+        "$computer is offline"
+    }
+}
