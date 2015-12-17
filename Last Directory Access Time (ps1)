@@ -1,0 +1,4 @@
+$var = Read-Host 'Input your path directory'
+$var2 = 'The last time someone accessed this directory was:'
+
+(Get-Item $var).lastaccesstime | Out-File C:\Bankonit\Last_Directory_Access_Time.txt
