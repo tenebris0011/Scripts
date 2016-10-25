@@ -1,3 +1,9 @@
+REM Uninstall Java(TM) 8 Update 101 - 64
+msiexec.exe /x {26a24ae4-039d-4ca4-87b4-2f32180101f0} /qn /norestart
+
+REM Uninstall Java(TM) 8 Update 101
+msiexec.exe /x {26a24ae4-039d-4ca4-87b4-2f32180101f0} /qn /norestart
+
 REM Uninstall Java(TM) 8 Update 92
 msiexec.exe /x {26A24AE4-039D-4CA4-87B4-2F83218092F0} /qn /norestart
 
