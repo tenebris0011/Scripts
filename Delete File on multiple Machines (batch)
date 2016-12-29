@@ -6,4 +6,3 @@ FOR /F  "delims= tokens=1" %%a IN (%var%) DO del "\\%%a\C$\file\location"
 
 machine1
 machine2
-machine3
