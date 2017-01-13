@@ -1,0 +1,5 @@
+REM This is used for reverting "Shell Trick.bat".
+REM It deletes the replaced Utilman.exe, and renames the original, removing the .old.
+
+del "C:\Windows\System32\Utilman.exe"
+ren "C:\Windows\System32\Utilman.exe.old" "Utilman.exe"
