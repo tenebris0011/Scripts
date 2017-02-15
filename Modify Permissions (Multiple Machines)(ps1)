@@ -1,0 +1,20 @@
+#This script is used to remove all permissions for a specifed group or user.
+#The second command will give the specified group or user Read & Execute permissions only.
+
+$computers = gc "C:\computers.txt"
+
+foreach ($computer in $computers) {
+    if (test-Connection -Cn $computer -quiet) {
+        & icacls "\\$computer\C$\location\of\file" /remove:g Everyone #Specify group/user here. Modify the file path to the one you want.
+    } else {
+        "$computer is not online"
+    }
+}
+
+foreach ($computer in $computers) {
+    if (test-Connection -Cn $computer -quiet) {
+        & icacls "\\$computer\C$\location\of\file" /grant Everyone:RX #Specify group/user here. Modify the file path to the one you want.
+    } else {
+        "$computer is not online"
+    }
+}
