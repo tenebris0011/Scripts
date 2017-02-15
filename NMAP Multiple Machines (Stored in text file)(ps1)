@@ -1,0 +1,8 @@
+#This script is designed to run nmap on a mass of machines.
+#This allows you to set this up, and let it run until completed.
+
+$computers = gc "C:\computers.txt"
+
+foreach ($computer in $computers) {
+        nmap -T4 -A -v -oN C:\BankOnIT\nmap_results\$computer.txt $computer
+}
