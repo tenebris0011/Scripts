@@ -1,0 +1,13 @@
+#This script parses data from all text files in a directory.
+#This is useful for when you run something that outputs info that will be similar to multiple text files. 
+
+$fulloutput=@()
+
+foreach ($File in GCI C:\Users\nwilson\Documents\nmap_results\*.txt){
+$output=$null
+$output+=$file.name + ","
+	foreach ($result in (gc $file)){
+		$output+=$result | ?{$_ -like "OS details*" -or $_ -like "Aggressive OS*"} #Modify the information after the -like to the details you need.
+	}
+	$fulloutput+=$output
+}
