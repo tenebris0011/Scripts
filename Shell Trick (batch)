@@ -1,7 +1,7 @@
 REM Shell Trick v1.0
 REM This batch file is used to replace the Utilman.exe within System32 with cmd.exe.
 REM This allows you to launch a System level CMD from the start screen.
-REM Changes can be reverted by running "Rever Shell Trick.bat".
+REM Changes can be reverted by running "Revert Shell Trick.bat".
 
 takeown /f C:\Windows\System32\Utilman.exe
 icacls "C:\Windows\System32\Utilman.exe" /grant %username%:F
